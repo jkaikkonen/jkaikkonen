@@ -1,4 +1,4 @@
-### Hi there 👋, Hello there 👋, I'm Jani
+### Hello there 👋, I'm Jani
 #### ServiceNow Developer
 Passionate ServiceNow enthusiast 🚀 | IT professional with a deep love for automating workflows on the ServiceNow platform 🌐
 
