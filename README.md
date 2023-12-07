@@ -7,7 +7,7 @@ Skills: JS / REACT / HTML / CSS / TS / Azure
 Certifications: CSA / CAD / CIS-ITSM / PSM I 
 <br>
 
-- 🌱 I’m currently learning Python and Pandas 
+- 🌱 I’m currently learning Data Analytics with Pandas and Python!  
 - 💬 Ask me about anything ServiceNow related!  
 - ⚡ Fun fact: I used to work as a restaurant chef, so ask me anything about food related things! 
 
