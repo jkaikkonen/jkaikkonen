@@ -2,7 +2,7 @@
 #### ServiceNow Developer
 Passionate ServiceNow enthusiast 🚀 | IT professional with a deep love for automating workflows on the ServiceNow platform 🌐
 
-Skills: JS / REACT / HTML / CSS / TS / Azure 
+Skills: JS / REACT / HTML / CSS / TS / Python / MySQL / Azure 
 <br>
 Certifications: CSA / CAD / CIS-ITSM / PSM I 
 <br>
